@@ -3,4 +3,4 @@
 Projects:
 * graphql-server: Nest, fastify, graphql
 * rest-server: Nest, fastify
-* client-benchmark: -
+* client-benchmark: graphql-request, node-fetch
